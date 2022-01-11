@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  src: url("comic-sans-ms/comici.ttf");
+}
 
 a:hover {
   cursor:pointer;
@@ -31,7 +35,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS";
   color: white;
 }
 
